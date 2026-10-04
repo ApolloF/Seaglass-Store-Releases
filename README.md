@@ -2,7 +2,7 @@
 
 This repository holds the release builds of Seaglass Store: the signed Windows installer, the program and their checksums. Installed copies check here for updates.
 
-The source code is kept private. This repository contains no source code and hosts no games.
+The source code is not published here. This repository hosts no games.
 
 ## Download
 
